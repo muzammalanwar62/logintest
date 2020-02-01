@@ -8,7 +8,7 @@ class login_page extends StatelessWidget{
     // TODO: implement build
     return MaterialApp(
       theme: ThemeData(
-        primarySwatch: Colors.pink
+        primarySwatch: Colors.green
       ),
       home:Scaffold(
         appBar: AppBar(
